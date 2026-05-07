@@ -1,0 +1,6 @@
+{
+  "name": "Bonjour Simple",
+  "description": "Une application web minimaliste qui affiche le message 'bonjour rodayna'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
